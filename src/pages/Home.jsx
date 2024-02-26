@@ -3,7 +3,7 @@ import Navbar from "../components/Navbar";
 
 const Home = () => {
   return (
-    <div className="flex flex-col w-full min-h-screen bg-gray-300 ">
+    <div className="w-full min-h-screen bg-gray-300 ">
       <Navbar />
       <Header />
     </div>
