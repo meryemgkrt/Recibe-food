@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Electrolize&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Electrolize", sans-serif;
+}
+.bgcontainer {
+  background-image: url("https://media.istockphoto.com/id/1178076727/es/foto/receta-de-cocina-fondo.jpg?s=170667a&w=0&k=20&c=TDFbvinhiXXytILQtVl9AGL9sPy2L68FKrk3s0wMTlo=");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
